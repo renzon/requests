@@ -1,7 +1,6 @@
 Requests: HTTP for Humans
 =========================
-
-
+#voltado a linha
 .. image:: https://img.shields.io/pypi/v/requests.svg
     :target: https://pypi.python.org/pypi/requests
 
